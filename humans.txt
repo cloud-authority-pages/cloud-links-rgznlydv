@@ -4,6 +4,6 @@ Website: https://deckbuilderstexas.net/
 Location: Austin, TX
 
 //* SITE */
-Published: 2026-06-27
+Published: 2026-06-28
 Language: English
 Doctype: HTML5
